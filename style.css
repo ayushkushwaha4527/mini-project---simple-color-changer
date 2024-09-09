@@ -1,0 +1,29 @@
+h1{
+    color: white;
+    text-align: center;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+#red{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin: 6px;
+}
+#green{
+    background-color:green;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin: 6px;
+}
+#yellow{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin: 6px;
+}
